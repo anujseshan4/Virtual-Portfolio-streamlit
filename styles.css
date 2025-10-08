@@ -8,6 +8,11 @@ a {
    font-weight: 500; 
 }
 
+body, .main, .stApp {
+    background-color:black !important;
+    color: #fff !important;
+}
+
 a:hover {
     color:coral !important;
     text-decoration: none;
