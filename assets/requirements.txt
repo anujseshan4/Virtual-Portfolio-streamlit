@@ -1,0 +1,5 @@
+streamlit --version 1.50.0
+pathlib
+Pillow --version 11.3.0
+random
+os
