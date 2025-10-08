@@ -89,6 +89,63 @@ with column2:
     st.write("📍", "Sydney, Australia")
     st.write("🏠", "28/2 Riverpark Drive, Liverpool Sydney NSW 2170")
 
+# Skills
+st.write("#")
+st.subheader("**Technical Skills**")
+st.write("---")
+st.write("""
+- 🧑‍💻Programming: **Python**, RStudio, Visual Basic for Applications, HTML and CSS
+- 📊 Data Visualisation: **Microsoft Power BI**, Tableau, Domo, Google Analytics and IBM Cognos Analytics
+- 🗃️ Databases: **Micorsoft Excel**, Google BigQuery, MySQL, **DuckDB** and **CockroachDB**
+- ❄️ RPA Frameworks: **Automation Anywhere**, Power Automate and Robocorp
+- 💡Agentic AI Frameworks: **crewai**, langchain, **n8n** and Zapier
+"""
+)
+
+# Certifications
+st.write("#")
+st.subheader("**🥇Certifications**")
+st.write("---")
+st.write("""
+- [Harvard Business School](https://drive.google.com/file/d/1U21zBKp-teBtoXyyQ5QT5AVJGLiVNH4A/view?usp=drive_link)
+- [Python for Data Science and Machine Learning](https://drive.google.com/file/d/176WfVndzcThQ_HIrSR8B1tSOoUISy1_d/view)
+- [Google Data Analytics](https://drive.google.com/file/d/16l4TSLoZHwpLU7aJ2HEKaBC7xzpCh7BR/view)
+- [Microsoft Power BI](https://drive.google.com/file/d/1GHVgmtRpoJJzkeLVodxIGWc9BdYWP7J6/view?usp=share_link)
+- [Snowflake BI Analytics Bootcamp](https://www.snowflake.com/dca-thankyou/bi-analytics-bootcamp/)  
+- [Alteryx](https://drive.google.com/file/d/1q5a3d-Vsk6XoGQ7umwNAruiOAzqob3-5/view?usp=drive_link)
+- [KNIME Analytics](https://drive.google.com/drive/folders/11O-8774ed27Ub05ht0EiEJkWmGaXdanT)
+- [Tableau](https://drive.google.com/file/d/1t_a2U4xjLjPxs_sV1luAFCM2YKcGiORS/view?usp=share_link)
+- [Microsoft Excel Advanced](https://drive.google.com/file/d/1nRyQHJ1Rk2XGNN4mFPs-xOzi8vWLmeYp/view)
+- [Microsoft Excel](https://drive.google.com/file/d/1wDEbIAN113mvsCqCuYurXf3D0dd6PTKy/view)
+- [Swedish Cultural Exchange Program](https://drive.google.com/file/d/1MB-gSpqYFrx9Cgx7FiPMYiaZnXaffptm/view)                  
+"""
+)
+st.write("#")
+st.subheader("**Bosch Accreditations**")
+st.write("""
+    - [Bosch Accreditations Folder](https://drive.google.com/drive/folders/1Pkcl3VpEeS7bXa5P_JhlmT_jyW01vr1j)
+    - [Power BI Issue Resolvance](https://drive.google.com/file/d/16kzIaQQzMb69oZztZAMPlwYu5-523tjQ/view?usp=sharing)
+    - [Data Management for Global Plastics](https://drive.google.com/file/d/1V47GtKS9swAqE3RHt8wMsb8kqOYInOxa/view?usp=sharing)
+    - [Automation Deployment](https://drive.google.com/file/d/1kmOF08owFP39L2x5vpYIsRyRbkDAxi3B/view?usp=sharing)
+    - [Reduction of SLA Days](https://drive.google.com/file/d/1oM5qaSUuwCo0Sljwsjqhtp4b9aTYEPJ6/view?usp=sharing)
+    - [Distinguished Individual Achievement](https://drive.google.com/file/d/1I-YMFj-2VVgXGyJ3oUa7QiAPn_3FpSNB/view?usp=sharing)
+    """
+)
+
+st.write("#")
+st.subheader("**Artificial Intelligence Accreditations**")
+st.write("""
+    - [Artificial Intelligence Accreditations Folder](https://drive.google.com/drive/folders/11O-8774ed27Ub05ht0EiEJkWmGaXdanT?usp=sharing)
+    - [crew.ai](https://drive.google.com/file/d/14gks8roXcfj87_dtMbdEpj0EBBEy78qO/view?usp=sharing)
+    - [Langchain](https://drive.google.com/file/d/1DTp2gQenTbby-J5mS9QXwA-5G_hBWdU4/view?usp=sharing)
+    - [CockroachDB](https://drive.google.com/file/d/1MQa39MqWbr5txsxgtCJF6E0o2gPPhSRE/view?usp=sharing)
+    - [ChromaDB](https://drive.google.com/file/d/1iHZH3D2Jazck1TrHkbNtWXZw3B5zJh3w/view?usp=sharing)
+    """
+)
+
+# Education
+
+st.write("#")
 st.subheader("**Education**")
 st.write("---")
 st.write(
@@ -152,61 +209,7 @@ st.write("""
 - Attained an award for Employee Data Management from the Executive Vice President, Bosch GS Global.
 """
 )
-
-# Certifications
-st.write("#")
-st.subheader("**🥇Certifications**")
-st.write("---")
-st.write("""
-- [Harvard Business School](https://drive.google.com/file/d/1U21zBKp-teBtoXyyQ5QT5AVJGLiVNH4A/view?usp=drive_link)
-- [Python for Data Science and Machine Learning](https://drive.google.com/file/d/176WfVndzcThQ_HIrSR8B1tSOoUISy1_d/view)
-- [Google Data Analytics](https://drive.google.com/file/d/16l4TSLoZHwpLU7aJ2HEKaBC7xzpCh7BR/view)
-- [Microsoft Power BI](https://drive.google.com/file/d/1GHVgmtRpoJJzkeLVodxIGWc9BdYWP7J6/view?usp=share_link)
-- [Alteryx](https://drive.google.com/file/d/1q5a3d-Vsk6XoGQ7umwNAruiOAzqob3-5/view?usp=drive_link)
-- [KNIME Analytics](https://drive.google.com/drive/folders/11O-8774ed27Ub05ht0EiEJkWmGaXdanT)
-- [Tableau](https://drive.google.com/file/d/1t_a2U4xjLjPxs_sV1luAFCM2YKcGiORS/view?usp=share_link)
-- [Microsoft Excel Advanced](https://drive.google.com/file/d/1nRyQHJ1Rk2XGNN4mFPs-xOzi8vWLmeYp/view)
-- [Microsoft Excel](https://drive.google.com/file/d/1wDEbIAN113mvsCqCuYurXf3D0dd6PTKy/view)
-- [Swedish Cultural Exchange Program](https://drive.google.com/file/d/1MB-gSpqYFrx9Cgx7FiPMYiaZnXaffptm/view)                  
-"""
-)
-st.write("#")
-st.subheader("**Bosch Accreditations**")
-st.write("""
-    - [Bosch Accreditations Folder](https://drive.google.com/drive/folders/1Pkcl3VpEeS7bXa5P_JhlmT_jyW01vr1j)
-    - [Power BI Issue Resolvance](https://drive.google.com/file/d/16kzIaQQzMb69oZztZAMPlwYu5-523tjQ/view?usp=sharing)
-    - [Data Management for Global Plastics](https://drive.google.com/file/d/1V47GtKS9swAqE3RHt8wMsb8kqOYInOxa/view?usp=sharing)
-    - [Automation Deployment](https://drive.google.com/file/d/1kmOF08owFP39L2x5vpYIsRyRbkDAxi3B/view?usp=sharing)
-    - [Reduction of SLA Days](https://drive.google.com/file/d/1oM5qaSUuwCo0Sljwsjqhtp4b9aTYEPJ6/view?usp=sharing)
-    - [Distinguished Individual Achievement](https://drive.google.com/file/d/1I-YMFj-2VVgXGyJ3oUa7QiAPn_3FpSNB/view?usp=sharing)
-    """
-)
-
-st.write("#")
-st.subheader("**Artificial Intelligence Accreditations**")
-st.write("""
-    - [Artificial Intelligence Accreditations Folder](https://drive.google.com/drive/folders/11O-8774ed27Ub05ht0EiEJkWmGaXdanT?usp=sharing)
-    - [crew.ai](https://drive.google.com/file/d/14gks8roXcfj87_dtMbdEpj0EBBEy78qO/view?usp=sharing)
-    - [Langchain](https://drive.google.com/file/d/1DTp2gQenTbby-J5mS9QXwA-5G_hBWdU4/view?usp=sharing)
-    - [CockroachDB](https://drive.google.com/file/d/1MQa39MqWbr5txsxgtCJF6E0o2gPPhSRE/view?usp=sharing)
-    - [ChromaDB](https://drive.google.com/file/d/1iHZH3D2Jazck1TrHkbNtWXZw3B5zJh3w/view?usp=sharing)
-    """
-)
-
-
-# Skills
-st.write("#")
-st.subheader("**Technical Skills**")
-st.write("---")
-st.write("""
-- 🧑‍💻Programming: **Python**, RStudio, Visual Basic for Applications, HTML and CSS
-- 📊 Data Visualisation: **Microsoft Power BI**, Tableau, Domo and IBM Cognos Analytics
-- 🗃️ Databases: **Micorsoft Excel**, MySQL, **DuckDB** and CockroachDB
-- ❄️ RPA Frameworks: **Automation Anywhere**, Power Automate and Robocorp
-- 💡Agentic AI Frameworks: **crewai**, langchain, **n8n** and Zapier
-"""
-)
-
+# Projects & Accomplishments
 st.write("#")
 st.subheader("**Projects**")
 st.write("---")
