@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+
+* {font-family: 'Poppins' ;}
+
+a {
+   text-decoration: none;
+   color: white !important;
+   font-weight: 500; 
+}
+
+a:hover {
+    color:coral !important;
+    text-decoration: none;
+}
+
+u1 {list-style: none;}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 5%;
+}
+
+.snowflake-icon {
+    position: absolute;
+    top: -10%;
+    left: var(--snowflake-left, 0);
+    color: white !important;
+    font-size: 2em;
+    font-family: Poppins, sans-serif;
+    text-shadow: 0px 0px 5px black;
+    user-select: none;
+    pointer-events: none;
+    animation: snowflake-fall var(--fall-duration, 6s) linear infinite,
+               snowflake-wave var(--wave-duration, 3s) ease-in-out infinite;
+    z-index: 9999;
+}
+@keyframes snowflake-fall {
+    0% { top: -10%; }
+    100% { top: 110%; }
+}
+@keyframes snowflake-wave {
+    0%, 100% { transform: translateX(0); }
+    20% { transform: translateX(-20px); }
+    50% { transform: translateX(30px); }
+    80% { transform: translateX(-15px); }
+}
+.snowflake-container {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    pointer-events: none;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+}
