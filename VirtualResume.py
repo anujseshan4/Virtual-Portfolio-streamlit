@@ -49,14 +49,14 @@ with open(resume_file,"rb") as pdf_file:
 
 profile_pic = Image.open(profile_pic)
 
-snowflakes_html = '<div class="snowflake-container">'
-for _ in range(5):
-    left = random.randint(0, 95)
-    fall_duration = random.uniform(4, 8)
-    wave_duration = random.uniform(2, 5)
-    snowflakes_html += (
-        f'<span class="snowflake-icon" '
-        f'style="--snowflake-left: {left}%; --fall-duration: {fall_duration}s; --wave-duration: {wave_duration}s;">🔢</span>')
+#snowflakes_html = '<div class="snowflake-container">'
+#for _ in range(5):
+    #left = random.randint(0, 95)
+    #fall_duration = random.uniform(4, 8)
+    #wave_duration = random.uniform(2, 5)
+    #snowflakes_html += (
+        #f'<span class="snowflake-icon" '
+        #f'style="--snowflake-left: {left}%; --fall-duration: {fall_duration}s; --wave-duration: {wave_duration}s;">🔢</span>')
     
     #left2 = random.randint(0, 95)
     #fall_duration2 = random.uniform(4, 8)
@@ -65,8 +65,8 @@ for _ in range(5):
         #f'<span class="snowflake-icon" '
         #f'style="--snowflake-left: {left2}%; --fall-duration: {fall_duration2}s; --wave-duration: {wave_duration2}s;">📊</span>')
 
-snowflakes_html += '</div>'
-st.markdown(snowflakes_html, unsafe_allow_html=True)
+#snowflakes_html += '</div>'
+#st.markdown(snowflakes_html, unsafe_allow_html=True)
 
 #   st.title("Profile")
 column1, column2 = st.columns(2, gap="small")
@@ -149,7 +149,7 @@ st.write("""
 - Had a vital role in analyzing and managing automotive suppliers data for an €8M ETS (Employee Transportation Services) project for a new Bosch plant, BGSW EC 360 Park.
 - Management of €20.2M worth of Purchase Order Data of Petrochemicals and Personal Protectivity Equipment as a Fresher and presentation of a Power BI Dashboard to Senior and Executive Plant Management to identify Potential and Recurring Savings.
 - Created a Power BI Dashboard and **Automated Mail Notifier** to track and manage the Employee Engagement for 1300+ Employees across India for Bosch India.
-- Attained an award for Employee Data Management from the Executive Vice President, Bosch GS Global
+- Attained an award for Employee Data Management from the Executive Vice President, Bosch GS Global.
 """
 )
 
