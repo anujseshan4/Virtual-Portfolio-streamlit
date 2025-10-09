@@ -76,7 +76,7 @@ with column1:
 with column2:
     st.title(Name)
     st.write(Description)
-    st.selectbox("**I am proficient in the roles of a/an**", ["Data Analyst", "Data Scientist", "Business Analyst", "Business Intelligence Expert", "Machine Learning Engineer", "Executive Assistant"])
+    st.selectbox("**I am proficient in the roles of a/an**", ["Data Analyst", "Data Scientist", "Business Analyst", "Supply Chain Analyst", "Business Intelligence Expert","Procurement Analyst", "Machine Learning Engineer", "Executive Assistant"])
     st.download_button(
         label="🗒️ Download Resume",
         data = PDFbyte,
