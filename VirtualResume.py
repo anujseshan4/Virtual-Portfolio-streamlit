@@ -94,11 +94,12 @@ st.write("#")
 st.subheader("**Technical Skills**")
 st.write("---")
 st.write("""
-- 🧑‍💻Programming: **Python**, RStudio, Visual Basic for Applications, HTML and CSS
+- 🧑‍💻Programming: **Python**, RStudio, Machine Learning, Visual Basic for Applications, HTML and CSS
 - 📊 Data Visualisation: **Microsoft Power BI**, Tableau, Domo, Google Analytics and IBM Cognos Analytics
 - 🗃️ Databases: **Micorsoft Excel**, Google BigQuery, MySQL, **DuckDB** and **CockroachDB**
 - ❄️ RPA Frameworks: **Automation Anywhere**, Power Automate and Robocorp
-- 💡Agentic AI Frameworks: **crewai**, langchain, **n8n** and Zapier
+- 💡 Agentic AI Frameworks: **crewai**, langchain, **n8n** and Zapier
+- 🧠 Neural Networks: **Tensorflow**,**Reinforcement Learning**, LoRA Algorirthms, Fuzzy Logic and Q-Learning
 """
 )
 
