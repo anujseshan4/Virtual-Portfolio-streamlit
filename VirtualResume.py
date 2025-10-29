@@ -24,11 +24,13 @@ Description = """
 Email = "anuj.downunder@gmail.com"
 Blogger = "https://www.blogger.com/profile/16952388212820659471"
 Social_Media = {
-    "Email": "📧 anuj.downunder@gmail.com",
-    "Github": "https://www.linkedin.com/in/anuj-seshan/",
     "Address" : " 28/2 Riverpark Drive, Liverpool Sydney NSW 2170",
-    "Blogger" : "https://www.blogger.com/profile/16952388212820659471",
-    "Phone Number" : "+61 493-419-330"
+    "Phone Number" : "+61 493-419-330",
+    "Email": "📧 anuj.downunder@gmail.com",
+    "LinkedIn": "https://www.linkedin.com/in/anuj-seshan/",
+    "GitHub": "https://github.com/anujseshan4",
+    "Blogger" : "https://www.blogger.com/profile/16952388212820659471"
+    
 }
 
 Projects = {
@@ -77,18 +79,25 @@ with column1:
 with column2:
     st.title(Name)
     st.write(Description)
-    st.selectbox("**I am proficient in the roles of a/an**", ["Data Analyst", "Data Scientist", "Business Analyst", "Business Intelligence Expert", "Machine Learning Engineer", "RPA Automation Developer", "Supply Chain Analyst", "Procurement Analyst", "Executive Assistant"])
+    st.selectbox("**I am proficient in the roles of a/an**", ["Data Analyst", "Data Scientist", "Business Analyst", "Business Intelligence Expert","Machine Learning Engineer", "RPA Automation Developer","Data and Business Strategy", "Executive Assistant"])
     st.download_button(
         label="🗒️ Download Resume",
         data = PDFbyte,
         file_name=resume_file.name,
         mime="application/octet-stream"
     )
-    st.write("📧", Email)
-    st.write("🔗 [Blogger](https://www.blogger.com/profile/16952388212820659471)")
-    st.write("📞", "+61 493-419-330")
+    
+    
+    
+    
+    st.write("🏠", "Riverpark Drive, Liverpool Sydney NSW 2170")
     st.write("📍", "Sydney, Australia")
-    st.write("🏠", "28/2 Riverpark Drive, Liverpool Sydney NSW 2170")
+    st.write("📧", Email)
+    st.write("📞", "+61 493-419-330")
+    st.write("🔗 [Blogger](https://www.blogger.com/profile/16952388212820659471)")
+    st.write("[Github](https://github.com/anujseshan4)")
+    st.write("[LinkedIn](https://www.linkedin.com/in/anuj-seshan/)")
+
 
 # Skills
 st.write("#")
