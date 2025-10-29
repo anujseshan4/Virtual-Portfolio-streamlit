@@ -25,6 +25,7 @@ Email = "anuj.downunder@gmail.com"
 Blogger = "https://www.blogger.com/profile/16952388212820659471"
 Social_Media = {
     "Email": "📧 anuj.downunder@gmail.com",
+    "Github": "https://www.linkedin.com/in/anuj-seshan/",
     "Address" : " 28/2 Riverpark Drive, Liverpool Sydney NSW 2170",
     "Blogger" : "https://www.blogger.com/profile/16952388212820659471",
     "Phone Number" : "+61 493-419-330"
@@ -181,8 +182,14 @@ st.write(
     """
     - Analyzing and Handling Supplier Data using Excel, Power BI and Tableau for an increase in purchase forecasts for our manufacturing plants which helped yield significant profitability.
     - Designing and Deployment of Process Automation Solutions using Power Automate and Visual Basic Applications.
-    - Creation of Simple Chatbots using Power Automate and Communication Platforms like Outlook and Microsoft Teams.
+    - Creation of Chatbots using Power Automate and Communication Platforms like Outlook and Microsoft Teams.
     - **Creation of Project Management Solutions using Microsoft Lists and Microsoft Teams which increased procurement efficiency and closure of high-urgency Purchase Orders.**
+    - Achieved a saving of €2.3M in GST Returns using purchasing and procurement knowledge acquired and Visual Basic Applications.
+    - Had a vital role in analyzing and managing automotive suppliers data for an €8M ETS (Employee Transportation Services) project for a new Bosch plant, BGSW EC 360 Park.
+    - Creation of a Global CSR Dashboard using Power BI and DAX which allowed to track the Sustainability ranking of our suppliers and assess them for quality and environment audits (ISO 9001 and ISO 14001).
+    - Management and Analysis of €20.2M worth of Purchase Order Data of Petrochemicals and Personal Protectivity Equipment and the creation and presentation of a Power BI Dashboard to Senior and Executive Plant Management to identify Negotiation Potential and Recurring Savings.
+    - Managed and Analyzed Supplier Data for a €14 Million Bosch Business Mobility Project involving the "Big 4" Consultancy Firms and Tier-1 Consultancy Firms.  
+
     """)
 
 st.write("#")
@@ -202,12 +209,10 @@ st.write("#")
 st.subheader("**Work Accomplishments**")
 st.write("---")
 st.write("""
-- Achieved a saving of ₹24 Crore in GST Returns using purchasing and procurement knowledge acquired and Visual Basic Applications.
-- Attained an award for a saving of ₹24 Crore in GST Returns for Bosch from the Senior Vice President of Global Indirect Procurement.         
-- Had a vital role in analyzing and managing automotive suppliers data for an €8M ETS (Employee Transportation Services) project for a new Bosch plant, BGSW EC 360 Park.
-- Management of €20.2M worth of Purchase Order Data of Petrochemicals and Personal Protectivity Equipment as a Fresher and presentation of a Power BI Dashboard to Senior and Executive Plant Management to identify Potential and Recurring Savings.
-- Created a Power BI Dashboard and **Automated Mail Notifier** to track and manage the Employee Engagement for 1300+ Employees across India for Bosch India.
-- Attained an award for Employee Data Management from the Executive Vice President, Bosch GS Global.
+- Attained an award for a saving of €2.3M in GST Returns for Bosch from the Senior Vice President of Indirect Procurement, Global Business Services.
+- Attained an award for Employee Data Management from the Executive Vice President, Global Business Services for the creation of a Power BI Dashboard and **Automated Mail Notifier** to track and manage an Employee Engagement initiative for 1300+ Employees across all Bosch India Locations.
+- Attained an award for succesfully creating and deploying a cross buying category group wise **automated** pre alert mail and group wise SLA tracker for the entire **IN, EMEA and AM regions** which tracked overdue RFQs and has improved the transparency and ease for the Procurement Buyers. The effect of the SLA Tracker is clearly visible on the improved PLT.
+- Attained an award for the creation and deployment of multiple Robotic Process Automation Solutions using Automation Anywhere, Power Automate and Visual Basic Applications which increased efficiency by 12% and had a positive impact on all Bosch Pan India locations 
 """
 )
 # Projects & Accomplishments
