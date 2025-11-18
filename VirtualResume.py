@@ -95,8 +95,8 @@ with column2:
     st.write("📧", Email)
     st.write("📞", "+61 493-419-330")
     st.write("🔗 [Blogger](https://www.blogger.com/profile/16952388212820659471)")
-    st.write("[Github](https://github.com/anujseshan4)")
-    st.write("[LinkedIn](https://www.linkedin.com/in/anuj-seshan/)")
+    st.write("🐨 [Github](https://github.com/anujseshan4)")
+    st.write("🤝 [LinkedIn](https://www.linkedin.com/in/anuj-seshan/)")
 
 
 # Skills
@@ -225,10 +225,10 @@ st.write("""
 """
 )
 # Projects & Accomplishments
-st.write("#")
-st.subheader("**Projects**")
-st.write("---")
-cols = st.columns(len(Projects))
-for idx, (name, link) in enumerate(Projects.items()):
-    with cols[idx]:
-        st.markdown(f"[{name}]({link})", unsafe_allow_html=True)
+#st.write("#")
+#st.subheader("**Projects**")
+#st.write("---")
+#cols = st.columns(len(Projects))
+#for idx, (name, link) in enumerate(Projects.items()):
+    #with cols[idx]:
+        #st.markdown(f"[{name}]({link})", unsafe_allow_html=True)
