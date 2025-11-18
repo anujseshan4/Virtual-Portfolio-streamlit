@@ -225,10 +225,10 @@ st.write("""
 """
 )
 # Projects & Accomplishments
-st.write("#")
-st.subheader("**Projects**")
-st.write("---")
-cols = st.columns(len(Projects))
-for idx, (name, link) in enumerate(Projects.items()):
-    with cols[idx]:
-        st.markdown(f"[{name}]({link})", unsafe_allow_html=True)
+#st.write("#")
+#st.subheader("**Projects**")
+#st.write("---")
+#cols = st.columns(len(Projects))
+#for idx, (name, link) in enumerate(Projects.items()):
+    #with cols[idx]:
+#st.markdown(f"[{name}]({link})", unsafe_allow_html=True)
